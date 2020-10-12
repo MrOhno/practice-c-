@@ -1,2 +1,2 @@
-# practice-c-
+# practice-cpp
 C++ practice playground
